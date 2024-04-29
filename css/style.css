@@ -1,0 +1,28 @@
+html,  
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+#title{padding: 0; 
+  margin: 0; 
+  height: 7vh; 
+  width: 100%; 
+  line-height: 7vh;
+  text-align: center;
+  font-size: 5vmin;
+  font-weight: bold;
+  background-color: #018ea7;
+}  
+
+
+#infoDiv {
+  width: 100vw;
+  background-color: white;
+  padding: 3px;
+  line-height: 3vh;
+  font-size: 3vh;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
